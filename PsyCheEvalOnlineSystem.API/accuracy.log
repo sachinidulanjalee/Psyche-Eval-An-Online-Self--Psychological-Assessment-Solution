@@ -1,0 +1,28 @@
+2023-10-17 23:38:20,301 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-17 23:38:20,301 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-10-17 23:38:20,354 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-17 23:38:21,782 - werkzeug - WARNING -  * Debugger is active!
+2023-10-17 23:38:21,786 - werkzeug - INFO -  * Debugger PIN: 321-747-659
+2023-10-17 23:38:52,004 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-17 23:38:52,006 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-10-17 23:38:52,012 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-17 23:38:53,478 - werkzeug - WARNING -  * Debugger is active!
+2023-10-17 23:38:53,482 - werkzeug - INFO -  * Debugger PIN: 321-747-659
+2023-10-17 23:39:32,992 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-10-17 23:39:32,992 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-10-17 23:39:32,998 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-17 23:39:34,337 - werkzeug - WARNING -  * Debugger is active!
+2023-10-17 23:39:34,339 - werkzeug - INFO -  * Debugger PIN: 321-747-659
+2023-10-17 23:39:40,094 - werkzeug - INFO -  * Detected change in 'D:\\Softwares\\Installed\\Anaconda\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2023-10-17 23:39:40,111 - werkzeug - INFO -  * Detected change in 'D:\\Softwares\\Installed\\Anaconda\\Lib\\site-packages\\sklearn\\base.py', reloading
+2023-10-17 23:39:40,114 - werkzeug - INFO -  * Detected change in 'D:\\Softwares\\Installed\\Anaconda\\Lib\\site-packages\\flask\\app.py', reloading
+2023-10-17 23:39:40,116 - werkzeug - INFO -  * Detected change in 'D:\\Softwares\\Installed\\Anaconda\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+2023-10-17 23:39:40,122 - werkzeug - INFO -  * Detected change in 'D:\\Softwares\\Installed\\Anaconda\\Lib\\site-packages\\pandas\\io\\parsers\\readers.py', reloading
+2023-10-17 23:39:40,126 - werkzeug - INFO -  * Detected change in 'D:\\Softwares\\Installed\\Anaconda\\Lib\\site-packages\\pandas\\io\\common.py', reloading
+2023-10-17 23:39:40,132 - werkzeug - INFO - 127.0.0.1 - - [17/Oct/2023 23:39:40] "[35m[1mPOST /api/submit_test HTTP/1.1[0m" 500 -
+2023-10-17 23:39:41,326 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2023-10-17 23:39:42,835 - werkzeug - WARNING -  * Debugger is active!
+2023-10-17 23:39:42,838 - werkzeug - INFO -  * Debugger PIN: 321-747-659
